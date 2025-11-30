@@ -1,0 +1,3 @@
+## Welcome to `KX-DOS`
+
+> Note: `KX-DOS` isn't finished yet! You'll see random commits, and this repository is only open for KX-DOS sprite fetching. You'll know what it does sometime...
